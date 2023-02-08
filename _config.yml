@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyun"
-  # avatar           : "/images/DH0407logo.png"
+  # avatar           : "/images/DH0407logo.png" 원형 프로필 생성
   bio              : "Hyun의 샘플 블로그입니다."
   location         : "South Korea"
   email            : "byeolb96@gmail.com"
