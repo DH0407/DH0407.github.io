@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/DH0407logo.png"
   bio              : "Hyun의 샘플 블로그입니다."
   location         : "South Korea"
   email            : "byeolb96@gmail.com"
@@ -116,6 +116,10 @@ author:
     # - label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Youtube"
+     icon: "fab fa-youtube"
+      url: "https://www.youtube.com/watch?v=0q9Jj86x4Es"
+
 
 # Site Footer
 footer:
