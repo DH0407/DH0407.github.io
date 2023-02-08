@@ -8,7 +8,7 @@ main:
 docs:
   - title: "대목차"
     children:
-      - title: "category"
+      - title: "Category"
         url: /category/
       - title: "Tag"
         url: /tags/
