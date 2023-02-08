@@ -110,9 +110,6 @@ author:
   location         : "South Korea"
   email            : "byeolb96@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:byoelb96@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DH0407"
