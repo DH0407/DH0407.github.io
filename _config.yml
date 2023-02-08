@@ -116,9 +116,9 @@ author:
     # - label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Youtube"
-     icon: "fab fa-youtube"
-      url: "https://www.youtube.com/watch?v=0q9Jj86x4Es"
+    # - label: "Youtube"
+    #  icon: "fab fa-youtube"
+    #   url: "https://www.youtube.com/watch?v=0q9Jj86x4Es"
 
 
 # Site Footer
@@ -127,9 +127,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DH0407"
-    - label: "Youtube"
-     icon: "fab fa-youtube"
-      url: "https://www.youtube.com/watch?v=0q9Jj86x4Es"
+    # - label: "Youtube"
+    #  icon: "fab fa-youtube"
+    #   url: "https://www.youtube.com/watch?v=0q9Jj86x4Es"
 
 
 # Reading Files
