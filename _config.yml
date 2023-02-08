@@ -270,4 +270,4 @@ defaults:
       show_date: true
 
 
-date_format: "%Y-%m_%d"
+date_format: "%Y-%m-%d"
